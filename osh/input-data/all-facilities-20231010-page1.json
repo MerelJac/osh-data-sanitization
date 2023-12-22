@@ -1,0 +1,920 @@
+[
+  {
+    "id": "CN2021250D1DTN7",
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [119.2787399, 33.7862099] },
+    "properties": {
+      "name": "Huai An Yuan Tong Headwear Mfg. Co., Ltd.",
+      "address": "No.30 & 32 & 99 Yan Huang Avenue, Lian Shui Economic Developmental District, Huaian ,Jiangsu",
+      "country_code": "CN",
+      "os_id": "CN2021250D1DTN7",
+      "country_name": "China",
+      "has_approved_claim": false,
+      "ppe_product_types": null,
+      "ppe_contact_phone": null,
+      "ppe_contact_email": null,
+      "ppe_website": null,
+      "is_closed": null
+    }
+  },
+  {
+    "id": "BD201915877ME2J",
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [90.3830624, 24.0875197] },
+    "properties": {
+      "name": "HABITUS FASHION LIMITED",
+      "address": "Gajaria Para Bahwal Mirzapur Gazipur Sadar Dhaka Bangladesh",
+      "country_code": "BD",
+      "os_id": "BD201915877ME2J",
+      "country_name": "Bangladesh",
+      "has_approved_claim": false,
+      "ppe_product_types": null,
+      "ppe_contact_phone": null,
+      "ppe_contact_email": null,
+      "ppe_website": null,
+      "is_closed": null
+    }
+  },
+  {
+    "id": "CN2019083DCWXWP",
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [121.6739796, 29.8570101] },
+    "properties": {
+      "name": "KASHION INDUSTRY CO. LTD",
+      "address": "555 MEIDISI ROAD, WUXIANG INDUSTRY PARK, YINZHOU - 315111 NINGBO (ZHEJIANG)",
+      "country_code": "CN",
+      "os_id": "CN2019083DCWXWP",
+      "country_name": "China",
+      "has_approved_claim": true,
+      "ppe_product_types": null,
+      "ppe_contact_phone": null,
+      "ppe_contact_email": null,
+      "ppe_website": null,
+      "is_closed": null
+    }
+  },
+  {
+    "id": "TR2019091T7CABY",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [28.000589, 41.28292709999999]
+    },
+    "properties": {
+      "name": "Bony Tekstil Isletmeleri A.S.",
+      "address": "Cerkezköy Organize Sanayi Bölgesi (OSB) Ismet Pasa Mahallesi 4 Sokak No. 10 Cerkezköy 59500",
+      "country_code": "TR",
+      "os_id": "TR2019091T7CABY",
+      "country_name": "Türkiye",
+      "has_approved_claim": false,
+      "ppe_product_types": null,
+      "ppe_contact_phone": null,
+      "ppe_contact_email": null,
+      "ppe_website": null,
+      "is_closed": null
+    }
+  },
+  {
+    "id": "BD2019248W1R8FC",
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [90.3942331, 24.2268932] },
+    "properties": {
+      "name": "Crown Exclusive Wears Ltd.",
+      "address": "Crown Exclusive Wears Ltd. Building, Soling More Road, Mawna, Sreepur, Gazipur-1740",
+      "country_code": "BD",
+      "os_id": "BD2019248W1R8FC",
+      "country_name": "Bangladesh",
+      "has_approved_claim": false,
+      "ppe_product_types": null,
+      "ppe_contact_phone": null,
+      "ppe_contact_email": null,
+      "ppe_website": null,
+      "is_closed": null
+    }
+  },
+  {
+    "id": "PK2023025D2C48G",
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [67.2118619, 24.8555677] },
+    "properties": {
+      "name": "Gul Ahmed Textile Mills Ltd.",
+      "address": "Plot No. H T-3/ A, H T-4, H T-7, H T-8, Landhi Industrial Area Karachi and Plot No. 82, 368, 369, Main National Highway, Landhi,",
+      "country_code": "PK",
+      "os_id": "PK2023025D2C48G",
+      "country_name": "Pakistan",
+      "has_approved_claim": false,
+      "ppe_product_types": null,
+      "ppe_contact_phone": null,
+      "ppe_contact_email": null,
+      "ppe_website": null,
+      "is_closed": null
+    }
+  },
+  {
+    "id": "CN2020191R06P9X",
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [120.4524406, 30.1775529] },
+    "properties": {
+      "name": "HANGZHOU HANGMIN DAMEI DYEING ARRANGEMENTS CO., LTD.",
+      "address": "HANGMIN INDUSTRY AREA, GUALI TOWN, XIAOSHAN DISTRICT, HANGZHOU CITY, ZHEJIANG, HANGZHOU",
+      "country_code": "CN",
+      "os_id": "CN2020191R06P9X",
+      "country_name": "China",
+      "has_approved_claim": false,
+      "ppe_product_types": null,
+      "ppe_contact_phone": null,
+      "ppe_contact_email": null,
+      "ppe_website": null,
+      "is_closed": null
+    }
+  },
+  {
+    "id": "BD20190853EMPB5",
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [90.2521179, 23.9878046] },
+    "properties": {
+      "name": "MASIHATA SWEATERS LTD",
+      "address": "South Panishail, BKSP, Kashimpur, Gazipur, 1349",
+      "country_code": "BD",
+      "os_id": "BD20190853EMPB5",
+      "country_name": "Bangladesh",
+      "has_approved_claim": false,
+      "ppe_product_types": null,
+      "ppe_contact_phone": null,
+      "ppe_contact_email": null,
+      "ppe_website": null,
+      "is_closed": null
+    }
+  },
+  {
+    "id": "BD2021113R7R87P",
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [90.418952, 23.896051] },
+    "properties": {
+      "name": "Zaber & Zubair Fabrics Ltd",
+      "address": "Pagar, Tongi, Gazipur Tongi, Gazipur Dhaka Gazipur 1710 Dhaka",
+      "country_code": "BD",
+      "os_id": "BD2021113R7R87P",
+      "country_name": "Bangladesh",
+      "has_approved_claim": true,
+      "ppe_product_types": null,
+      "ppe_contact_phone": null,
+      "ppe_contact_email": null,
+      "ppe_website": null,
+      "is_closed": null
+    }
+  },
+  {
+    "id": "PK2022137WMS45Y",
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [73.2805025, 31.4924268] },
+    "properties": {
+      "name": "Interloop Ltd",
+      "address": "1-Km Khurrianwala Jaranwala Road, Khurrianwala-Faislabad",
+      "country_code": "PK",
+      "os_id": "PK2022137WMS45Y",
+      "country_name": "Pakistan",
+      "has_approved_claim": false,
+      "ppe_product_types": ["Socks"],
+      "ppe_contact_phone": "0092–41–4360400",
+      "ppe_contact_email": "jawad.zafar@interloop.com.pk",
+      "ppe_website": "https://www.interloop-pk.com",
+      "is_closed": null
+    }
+  },
+  {
+    "id": "PK20190913BBJ2Y",
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [73.278021, 31.4903319] },
+    "properties": {
+      "name": "Interloop Ltd HD 2",
+      "address": "7 Km Khurrianwala Jaranwala Road Khurrianwala Faisalabad",
+      "country_code": "PK",
+      "os_id": "PK20190913BBJ2Y",
+      "country_name": "Pakistan",
+      "has_approved_claim": true,
+      "ppe_product_types": ["Socks"],
+      "ppe_contact_phone": "0092–41–4360400",
+      "ppe_contact_email": "jawad.zafar@interloop.com.pk",
+      "ppe_website": "https://www.interloop-pk.com",
+      "is_closed": null
+    }
+  },
+  {
+    "id": "PK2021159RNGEXQ",
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [74.3669833, 31.4067129] },
+    "properties": {
+      "name": "Nishat Mills Limited - Weaving, Dyeing and Finishing Unit, Processing Unit, Stitching Unit & Power Plant",
+      "address": "5 K.M. Nishat Avenue, Off 22 K.M. Ferozepur Road, Lahore, Pakistan.",
+      "country_code": "PK",
+      "os_id": "PK2021159RNGEXQ",
+      "country_name": "Pakistan",
+      "has_approved_claim": false,
+      "ppe_product_types": null,
+      "ppe_contact_phone": null,
+      "ppe_contact_email": null,
+      "ppe_website": null,
+      "is_closed": null
+    }
+  },
+  {
+    "id": "CN2019083QP2YTF",
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [121.5069911, 28.3504202] },
+    "properties": {
+      "name": "Wenling Mingshi Hats Co Ltd",
+      "address": "Niwu Village Ruoheng Town Wenling Zhejiang",
+      "country_code": "CN",
+      "os_id": "CN2019083QP2YTF",
+      "country_name": "China",
+      "has_approved_claim": false,
+      "ppe_product_types": null,
+      "ppe_contact_phone": null,
+      "ppe_contact_email": null,
+      "ppe_website": null,
+      "is_closed": null
+    }
+  },
+  {
+    "id": "BD2020021QK28YZ",
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [90.3941328, 24.2542614] },
+    "properties": {
+      "name": "Dekko Garments Ltd.",
+      "address": "Mawna, Sreepur, Gazipur-1740",
+      "country_code": "BD",
+      "os_id": "BD2020021QK28YZ",
+      "country_name": "Bangladesh",
+      "has_approved_claim": true,
+      "ppe_product_types": null,
+      "ppe_contact_phone": null,
+      "ppe_contact_email": null,
+      "ppe_website": null,
+      "is_closed": null
+    }
+  },
+  {
+    "id": "BD2019083KBFXKT",
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [90.3743318, 24.1295146] },
+    "properties": {
+      "name": "Energypac Fashions Ltd",
+      "address": "Hotapara Borkan Monipur Bhabani Pur Gazipur Sadar Gazipur",
+      "country_code": "BD",
+      "os_id": "BD2019083KBFXKT",
+      "country_name": "Bangladesh",
+      "has_approved_claim": false,
+      "ppe_product_types": null,
+      "ppe_contact_phone": null,
+      "ppe_contact_email": null,
+      "ppe_website": null,
+      "is_closed": null
+    }
+  },
+  {
+    "id": "BD20200845XNDJC",
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [90.2947322, 23.970545] },
+    "properties": {
+      "name": "JINNAT KNITWEAR LTD",
+      "address": "SARADAGANJ, KASHIMPUR 1349, GAZIPUR",
+      "country_code": "BD",
+      "os_id": "BD20200845XNDJC",
+      "country_name": "Bangladesh",
+      "has_approved_claim": false,
+      "ppe_product_types": null,
+      "ppe_contact_phone": null,
+      "ppe_contact_email": null,
+      "ppe_website": null,
+      "is_closed": null
+    }
+  },
+  {
+    "id": "BD2020066B4QQAX",
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [90.6646529, 23.8934383] },
+    "properties": {
+      "name": "MOMTEX EXPO LTD.",
+      "address": "South Kongsardi Panchdona, Narsingdi,1603",
+      "country_code": "BD",
+      "os_id": "BD2020066B4QQAX",
+      "country_name": "Bangladesh",
+      "has_approved_claim": false,
+      "ppe_product_types": null,
+      "ppe_contact_phone": null,
+      "ppe_contact_email": null,
+      "ppe_website": null,
+      "is_closed": null
+    }
+  },
+  {
+    "id": "VN20220636XT7E5",
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [106.9105133, 10.7177332] },
+    "properties": {
+      "name": "ASI - Greentech Headgear",
+      "address": "ASI Greentech Headgear Company Limited - Branch No. 1 & No. 2,Workshop # 1, 2, 3, 4, 5, 6, 22, 23, Road #3, Nhon Trach 2 - Nhon Phu Iz, Phu Hoi Commune, Nhon Trach District, Dong Nai Province",
+      "country_code": "VN",
+      "os_id": "VN20220636XT7E5",
+      "country_name": "Vietnam",
+      "has_approved_claim": false,
+      "ppe_product_types": null,
+      "ppe_contact_phone": null,
+      "ppe_contact_email": null,
+      "ppe_website": null,
+      "is_closed": null
+    }
+  },
+  {
+    "id": "BD2019086JE9PZY",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [90.23795229999999, 24.0478735]
+    },
+    "properties": {
+      "name": "Echotex Limited",
+      "address": "Chandra, Polli Bidduth, Kaliakoir, Gazipur",
+      "country_code": "BD",
+      "os_id": "BD2019086JE9PZY",
+      "country_name": "Bangladesh",
+      "has_approved_claim": false,
+      "ppe_product_types": null,
+      "ppe_contact_phone": null,
+      "ppe_contact_email": null,
+      "ppe_website": null,
+      "is_closed": null
+    }
+  },
+  {
+    "id": "BD2019181PMM9X0",
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [90.404039, 23.898725] },
+    "properties": {
+      "name": "Garments Export Village Limited",
+      "address": "Maa Tower Kbmroad Tongi I/A Tongi -1710 Gazipur",
+      "country_code": "BD",
+      "os_id": "BD2019181PMM9X0",
+      "country_name": "Bangladesh",
+      "has_approved_claim": false,
+      "ppe_product_types": null,
+      "ppe_contact_phone": null,
+      "ppe_contact_email": null,
+      "ppe_website": null,
+      "is_closed": null
+    }
+  },
+  {
+    "id": "CN2019083JNMWTS",
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [113.264385, 23.12911] },
+    "properties": {
+      "name": "Jiangsu Asian Sourcing Headwear Manufacturing Co., Ltd.",
+      "address": "No. 2  South Guangzhou Road Economic And Technology Development Zone Huai An Jiangsu",
+      "country_code": "CN",
+      "os_id": "CN2019083JNMWTS",
+      "country_name": "China",
+      "has_approved_claim": false,
+      "ppe_product_types": null,
+      "ppe_contact_phone": null,
+      "ppe_contact_email": null,
+      "ppe_website": null,
+      "is_closed": null
+    }
+  },
+  {
+    "id": "BD2019091VKYVHM",
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [90.2811491, 23.9457108] },
+    "properties": {
+      "name": "Talisman Ltd.",
+      "address": "Ganakbari Savar Plot No. 07 - 10 & 13 - 16 DEPZ Extension Area Savar 1349",
+      "country_code": "BD",
+      "os_id": "BD2019091VKYVHM",
+      "country_name": "Bangladesh",
+      "has_approved_claim": false,
+      "ppe_product_types": null,
+      "ppe_contact_phone": null,
+      "ppe_contact_email": null,
+      "ppe_website": null,
+      "is_closed": null
+    }
+  },
+  {
+    "id": "BD2019083PQ7CWS",
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [90.1377983, 23.8256926] },
+    "properties": {
+      "name": "Tarasima Apparels Ltd.",
+      "address": "Golora Kaitta Saturia Manikganj Dhaka",
+      "country_code": "BD",
+      "os_id": "BD2019083PQ7CWS",
+      "country_name": "Bangladesh",
+      "has_approved_claim": false,
+      "ppe_product_types": null,
+      "ppe_contact_phone": null,
+      "ppe_contact_email": null,
+      "ppe_website": null,
+      "is_closed": null
+    }
+  },
+  {
+    "id": "CN201910080TKVE",
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [120.6145227, 27.9546602] },
+    "properties": {
+      "name": "Wenzhou Sunrise Industrial and Trading Co.,LTD",
+      "address": "Building No. 1, 2/F, Qiangqaing Group, Shanghui industrial Zone, Louqiao St, Wenzhou, Zhejiang",
+      "country_code": "CN",
+      "os_id": "CN201910080TKVE",
+      "country_name": "China",
+      "has_approved_claim": false,
+      "ppe_product_types": null,
+      "ppe_contact_phone": null,
+      "ppe_contact_email": null,
+      "ppe_website": null,
+      "is_closed": null
+    }
+  },
+  {
+    "id": "BD201908390PGCR",
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [90.1015492, 23.9253607] },
+    "properties": {
+      "name": "AKH ECO APPARELS LTD.",
+      "address": "495, BALITHA, SHAH BELISHWER, DHAMRAI",
+      "country_code": "BD",
+      "os_id": "BD201908390PGCR",
+      "country_name": "Bangladesh",
+      "has_approved_claim": false,
+      "ppe_product_types": null,
+      "ppe_contact_phone": null,
+      "ppe_contact_email": null,
+      "ppe_website": null,
+      "is_closed": null
+    }
+  },
+  {
+    "id": "BD2019133KZNDS6",
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [90.353002, 23.797427] },
+    "properties": {
+      "name": "Babylon Garments Ltd.",
+      "address": "Holding # 30/1 Plot# 2-B/1 Darus Salam Road Mirpur Section -1, Dhaka, Dhaka, Bangladesh",
+      "country_code": "BD",
+      "os_id": "BD2019133KZNDS6",
+      "country_name": "Bangladesh",
+      "has_approved_claim": false,
+      "ppe_product_types": null,
+      "ppe_contact_phone": null,
+      "ppe_contact_email": null,
+      "ppe_website": null,
+      "is_closed": null
+    }
+  },
+  {
+    "id": "BD2021336E8AM7J",
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [90.4202724, 23.9999405] },
+    "properties": {
+      "name": "Coast to Coast (Pvt.) Ltd.",
+      "address": "SHI-174 Itahata,Mouza-35, PS: Bashon, Post Code:1702,Gazipur, Bangladesh,Gazipur,1702",
+      "country_code": "BD",
+      "os_id": "BD2021336E8AM7J",
+      "country_name": "Bangladesh",
+      "has_approved_claim": false,
+      "ppe_product_types": null,
+      "ppe_contact_phone": null,
+      "ppe_contact_email": null,
+      "ppe_website": null,
+      "is_closed": null
+    }
+  },
+  {
+    "id": "BD2020079C8EFMZ",
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [90.171312, 24.089688] },
+    "properties": {
+      "name": "Impress-Newtex Composite Textiles Ltd.",
+      "address": "Gorai Industrial Area, Tangail, Mirzapur, Dhaka, Bangladesh",
+      "country_code": "BD",
+      "os_id": "BD2020079C8EFMZ",
+      "country_name": "Bangladesh",
+      "has_approved_claim": false,
+      "ppe_product_types": null,
+      "ppe_contact_phone": null,
+      "ppe_contact_email": null,
+      "ppe_website": null,
+      "is_closed": null
+    }
+  },
+  {
+    "id": "PK20211667P6DHE",
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [67.007312, 24.916187] },
+    "properties": {
+      "name": "LIBERTY MILLS LIMITED",
+      "address": "A/51-A, S.I.T.E., Karachi, 75700",
+      "country_code": "PK",
+      "os_id": "PK20211667P6DHE",
+      "country_name": "Pakistan",
+      "has_approved_claim": false,
+      "ppe_product_types": null,
+      "ppe_contact_phone": null,
+      "ppe_contact_email": null,
+      "ppe_website": null,
+      "is_closed": null
+    }
+  },
+  {
+    "id": "BD2020052SV22HT",
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [90.378162, 24.1166236] },
+    "properties": {
+      "name": "Silver Composite Textile Mills Ltd.",
+      "address": "Vill. B.K. Bari, Taltoli, P.O.: Mirzapur Gazipur",
+      "country_code": "BD",
+      "os_id": "BD2020052SV22HT",
+      "country_name": "Bangladesh",
+      "has_approved_claim": false,
+      "ppe_product_types": null,
+      "ppe_contact_phone": null,
+      "ppe_contact_email": null,
+      "ppe_website": null,
+      "is_closed": null
+    }
+  },
+  {
+    "id": "PK20211198NF2A3",
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [67.1166204, 24.8373725] },
+    "properties": {
+      "name": "SOORTY ENTERPRISES (PVT.) LTD.",
+      "address": "Plot 24 & 26, Sector 23, Korangi Industrial Area, Faisal Karachi - Sind Sindh - Faisal Karachi - Sind",
+      "country_code": "PK",
+      "os_id": "PK20211198NF2A3",
+      "country_name": "Pakistan",
+      "has_approved_claim": false,
+      "ppe_product_types": null,
+      "ppe_contact_phone": null,
+      "ppe_contact_email": null,
+      "ppe_website": null,
+      "is_closed": null
+    }
+  },
+  {
+    "id": "CN2021356KN5WFW",
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [120.56458, 31.79641] },
+    "properties": {
+      "name": "Changshu Kailan Knitting CO.,Ltd.",
+      "address": "No.8 Penhu Road,Dongnan Industrial Zone,Changshu,Jiangsu,China, 215500, Changshu Jiangsu, China",
+      "country_code": "CN",
+      "os_id": "CN2021356KN5WFW",
+      "country_name": "China",
+      "has_approved_claim": false,
+      "ppe_product_types": null,
+      "ppe_contact_phone": null,
+      "ppe_contact_email": null,
+      "ppe_website": null,
+      "is_closed": null
+    }
+  },
+  {
+    "id": "PK2020343GC2KVN",
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [73.0771534, 31.477761] },
+    "properties": {
+      "name": "CRESCENT TEXTILE MILLS LIMITED",
+      "address": "Sargodha Road, Faisalabad, Pakistan",
+      "country_code": "PK",
+      "os_id": "PK2020343GC2KVN",
+      "country_name": "Pakistan",
+      "has_approved_claim": false,
+      "ppe_product_types": null,
+      "ppe_contact_phone": null,
+      "ppe_contact_email": null,
+      "ppe_website": null,
+      "is_closed": null
+    }
+  },
+  {
+    "id": "BD20190912N49XX",
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [90.294534, 23.9703785] },
+    "properties": {
+      "name": "GMS Composite Knitting Industry Co.",
+      "address": "Sardaganj Kashimpur Gazipur 1346",
+      "country_code": "BD",
+      "os_id": "BD20190912N49XX",
+      "country_name": "Bangladesh",
+      "has_approved_claim": true,
+      "ppe_product_types": null,
+      "ppe_contact_phone": null,
+      "ppe_contact_email": null,
+      "ppe_website": null,
+      "is_closed": null
+    }
+  },
+  {
+    "id": "BD2020021CSHYBC",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [90.39604279999999, 23.9582596]
+    },
+    "properties": {
+      "name": "Golden Refit Garments Ltd.",
+      "address": "589 Chirir Chala, Baghar Bazar, Bhabanipur, Gazipur 1704 Gazipur",
+      "country_code": "BD",
+      "os_id": "BD2020021CSHYBC",
+      "country_name": "Bangladesh",
+      "has_approved_claim": false,
+      "ppe_product_types": null,
+      "ppe_contact_phone": null,
+      "ppe_contact_email": null,
+      "ppe_website": null,
+      "is_closed": null
+    }
+  },
+  {
+    "id": "BD2019091A16MXY",
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [91.7780192, 22.2931261] },
+    "properties": {
+      "name": "Pacific Jeans Limited",
+      "address": "Plot # 14-19, Sector # 5, Cepz, Chittagong, Bangladesh",
+      "country_code": "BD",
+      "os_id": "BD2019091A16MXY",
+      "country_name": "Bangladesh",
+      "has_approved_claim": true,
+      "ppe_product_types": null,
+      "ppe_contact_phone": null,
+      "ppe_contact_email": null,
+      "ppe_website": null,
+      "is_closed": null
+    }
+  },
+  {
+    "id": "BD201924882ZDNB",
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [90.4240495, 24.1974601] },
+    "properties": {
+      "name": "Pretty Sweaters Ltd.",
+      "address": "Plot 222, Dhaka Mymensingh Highway, Chayadana, Gacha, Gazipur-1704",
+      "country_code": "BD",
+      "os_id": "BD201924882ZDNB",
+      "country_name": "Bangladesh",
+      "has_approved_claim": false,
+      "ppe_product_types": null,
+      "ppe_contact_phone": null,
+      "ppe_contact_email": null,
+      "ppe_website": null,
+      "is_closed": null
+    }
+  },
+  {
+    "id": "VN2020029G483G2",
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [106.689188, 20.905313] },
+    "properties": {
+      "name": "Regina Miracle International Vietnam Co., ltd",
+      "address": "No 9 East – West Road, VSIP Hai Phong Dinh Vu Economic Zone, Thuy Nguyen District  Cat Hai Hai Phong 084 Hai Phong Vietnam",
+      "country_code": "VN",
+      "os_id": "VN2020029G483G2",
+      "country_name": "Vietnam",
+      "has_approved_claim": false,
+      "ppe_product_types": null,
+      "ppe_contact_phone": null,
+      "ppe_contact_email": null,
+      "ppe_website": null,
+      "is_closed": null
+    }
+  },
+  {
+    "id": "BD2019083GY7BTQ",
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [90.4271525, 24.1749141] },
+    "properties": {
+      "name": "SM Knitwear Ltd",
+      "address": "Shirirchala Bhabanipur Gazipur Dhaka",
+      "country_code": "BD",
+      "os_id": "BD2019083GY7BTQ",
+      "country_name": "Bangladesh",
+      "has_approved_claim": false,
+      "ppe_product_types": null,
+      "ppe_contact_phone": null,
+      "ppe_contact_email": null,
+      "ppe_website": null,
+      "is_closed": null
+    }
+  },
+  {
+    "id": "TR20191815TWXTE",
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [29.1888735, 40.2024147] },
+    "properties": {
+      "name": "Akbaslar Tekstil Enerji",
+      "address": "Ataturk Caddesi No:197 Gursu  Bursa",
+      "country_code": "TR",
+      "os_id": "TR20191815TWXTE",
+      "country_name": "Türkiye",
+      "has_approved_claim": false,
+      "ppe_product_types": null,
+      "ppe_contact_phone": null,
+      "ppe_contact_email": null,
+      "ppe_website": null,
+      "is_closed": null
+    }
+  },
+  {
+    "id": "BD2023041JKXK29",
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [90.3229675, 23.896017] },
+    "properties": {
+      "name": "Alif embroidery Village Ltd/Lam Mim Associates Ltd.",
+      "address": "Bangabandhu Road, Tongabari, Ashulia, Savar, Dhaka-1341",
+      "country_code": "BD",
+      "os_id": "BD2023041JKXK29",
+      "country_name": "Bangladesh",
+      "has_approved_claim": false,
+      "ppe_product_types": null,
+      "ppe_contact_phone": null,
+      "ppe_contact_email": null,
+      "ppe_website": null,
+      "is_closed": null
+    }
+  },
+  {
+    "id": "BD2020204YKEPHP",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [90.23795229999999, 24.0478735]
+    },
+    "properties": {
+      "name": "Apex Lingerie Limited",
+      "address": "CHANDORA, KALIAKOIR 0 GAZIPUR",
+      "country_code": "BD",
+      "os_id": "BD2020204YKEPHP",
+      "country_name": "Bangladesh",
+      "has_approved_claim": false,
+      "ppe_product_types": null,
+      "ppe_contact_phone": null,
+      "ppe_contact_email": null,
+      "ppe_website": null,
+      "is_closed": null
+    }
+  },
+  {
+    "id": "CN2019301W3ZGXC",
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [113.5390402, 22.7710802] },
+    "properties": {
+      "name": "Avery Dennison (Guangzhou) Converted Products Ltd.",
+      "address": "No.7 Guangyi Road,Nansha District,Guangzhou",
+      "country_code": "CN",
+      "os_id": "CN2019301W3ZGXC",
+      "country_name": "China",
+      "has_approved_claim": false,
+      "ppe_product_types": null,
+      "ppe_contact_phone": null,
+      "ppe_contact_email": null,
+      "ppe_website": null,
+      "is_closed": null
+    }
+  },
+  {
+    "id": "IT2019100GNNJF5",
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [8.7602879, 45.538324] },
+    "properties": {
+      "name": "Candiani S.p.A.",
+      "address": "Via Arese 85, Robecchetto Con Induno, Milano",
+      "country_code": "IT",
+      "os_id": "IT2019100GNNJF5",
+      "country_name": "Italy",
+      "has_approved_claim": false,
+      "ppe_product_types": null,
+      "ppe_contact_phone": null,
+      "ppe_contact_email": null,
+      "ppe_website": null,
+      "is_closed": null
+    }
+  },
+  {
+    "id": "BD201908304KCZZ",
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [90.5740474, 23.8973734] },
+    "properties": {
+      "name": "Chorka Textile Ltd",
+      "address": "Kazir Chor Danga Palash Narshingdi",
+      "country_code": "BD",
+      "os_id": "BD201908304KCZZ",
+      "country_name": "Bangladesh",
+      "has_approved_claim": false,
+      "ppe_product_types": null,
+      "ppe_contact_phone": null,
+      "ppe_contact_email": null,
+      "ppe_website": null,
+      "is_closed": null
+    }
+  },
+  {
+    "id": "TR2019172HY36SD",
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [28.9622545, 40.2461268] },
+    "properties": {
+      "name": "Coats Turkiye",
+      "address": "Organize Sanayi Bolgesi.Mavi Cd. No:2  Nilüfer  Bursa",
+      "country_code": "TR",
+      "os_id": "TR2019172HY36SD",
+      "country_name": "Türkiye",
+      "has_approved_claim": false,
+      "ppe_product_types": null,
+      "ppe_contact_phone": null,
+      "ppe_contact_email": null,
+      "ppe_website": null,
+      "is_closed": null
+    }
+  },
+  {
+    "id": "BD2020021B58K5X",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [90.32072989999999, 23.9979189]
+    },
+    "properties": {
+      "name": "cotton club (bd) ltd.",
+      "address": "Jarun (South), Kashimpur 1700 Gazipur",
+      "country_code": "BD",
+      "os_id": "BD2020021B58K5X",
+      "country_name": "Bangladesh",
+      "has_approved_claim": false,
+      "ppe_product_types": null,
+      "ppe_contact_phone": null,
+      "ppe_contact_email": null,
+      "ppe_website": null,
+      "is_closed": null
+    }
+  },
+  {
+    "id": "BD2019133KEDYTZ",
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [90.40882230000001, 23.9010413]
+    },
+    "properties": {
+      "name": "Creative Collection Ltd.",
+      "address": "Plot# 69 & 107 Nishat Nagor Tongi, Gazipur, Dhaka, Bangladesh",
+      "country_code": "BD",
+      "os_id": "BD2019133KEDYTZ",
+      "country_name": "Bangladesh",
+      "has_approved_claim": false,
+      "ppe_product_types": null,
+      "ppe_contact_phone": null,
+      "ppe_contact_email": null,
+      "ppe_website": null,
+      "is_closed": null
+    }
+  },
+  {
+    "id": "BD2019083VJP4Z3",
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [90.4815037, 23.6248349] },
+    "properties": {
+      "name": "FAKIR APPARELS",
+      "address": "Mouza-Baroivhog, BSCIC Industrial Area, Enayetnagar, Fatullah Narayanganj-1400 Dhaka",
+      "country_code": "BD",
+      "os_id": "BD2019083VJP4Z3",
+      "country_name": "Bangladesh",
+      "has_approved_claim": false,
+      "ppe_product_types": null,
+      "ppe_contact_phone": null,
+      "ppe_contact_email": null,
+      "ppe_website": null,
+      "is_closed": null
+    }
+  },
+  {
+    "id": "BD2019086YTFA6Q",
+    "type": "Feature",
+    "geometry": { "type": "Point", "coordinates": [90.243063, 23.928438] },
+    "properties": {
+      "name": "Global Attire Ltd",
+      "address": "Khejurtek, Mirzanagar, Pathalia, 1344, Dhaka, Bangladesh",
+      "country_code": "BD",
+      "os_id": "BD2019086YTFA6Q",
+      "country_name": "Bangladesh",
+      "has_approved_claim": false,
+      "ppe_product_types": null,
+      "ppe_contact_phone": "8809611555",
+      "ppe_contact_email": "mmislam304@gmail.com",
+      "ppe_website": "https://www.globalattire.com",
+      "is_closed": null
+    }
+  }
+]
